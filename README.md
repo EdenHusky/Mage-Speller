@@ -1,7 +1,5 @@
 # Mage-Speller
 
-Essentially, I wanted to flesh out my abilities and talents.
-
 I love video games and I felt like this would be a tough challenge with little to no experience.
 
 Before completeing this project, I had absolutely no prior knowledge of video game development. Now I have a small amount of fleshed out knowledge using 
